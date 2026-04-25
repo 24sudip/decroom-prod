@@ -1,0 +1,138 @@
+[19-Oct-2025 14:56:40 Asia/Dhaka] PHP Fatal error:  Cannot use App\Http\Controllers\Frontend\VendorDashboardController as VendorDashboardController because the name is already in use in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/routes/web.php on line 23
+[29-Oct-2025 10:01:28 UTC] PHP Fatal error:  Cannot redeclare AppSetting() (previously declared in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/Helpers/PurchaseHelper.php:62) in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/helpers.php on line 5
+[29-Oct-2025 10:01:32 UTC] PHP Fatal error:  Cannot redeclare AppSetting() (previously declared in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/Helpers/PurchaseHelper.php:62) in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/helpers.php on line 5
+[29-Oct-2025 10:01:34 UTC] PHP Fatal error:  Cannot redeclare AppSetting() (previously declared in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/Helpers/PurchaseHelper.php:62) in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/helpers.php on line 5
+[29-Oct-2025 10:01:39 UTC] PHP Fatal error:  Cannot redeclare AppSetting() (previously declared in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/Helpers/PurchaseHelper.php:62) in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/helpers.php on line 5
+[29-Oct-2025 10:01:42 UTC] PHP Fatal error:  Cannot redeclare AppSetting() (previously declared in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/Helpers/PurchaseHelper.php:62) in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/helpers.php on line 5
+[29-Oct-2025 10:01:44 UTC] PHP Fatal error:  Cannot redeclare AppSetting() (previously declared in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/Helpers/PurchaseHelper.php:62) in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/helpers.php on line 5
+[29-Oct-2025 10:01:54 UTC] PHP Fatal error:  Cannot redeclare AppSetting() (previously declared in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/Helpers/PurchaseHelper.php:62) in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/helpers.php on line 5
+[29-Oct-2025 10:01:59 UTC] PHP Fatal error:  Cannot redeclare AppSetting() (previously declared in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/Helpers/PurchaseHelper.php:62) in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/helpers.php on line 5
+[29-Oct-2025 10:02:00 UTC] PHP Fatal error:  Cannot redeclare AppSetting() (previously declared in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/Helpers/PurchaseHelper.php:62) in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/helpers.php on line 5
+[29-Oct-2025 10:02:00 UTC] PHP Fatal error:  Cannot redeclare AppSetting() (previously declared in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/Helpers/PurchaseHelper.php:62) in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/helpers.php on line 5
+[29-Oct-2025 10:02:00 UTC] PHP Fatal error:  Cannot redeclare AppSetting() (previously declared in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/Helpers/PurchaseHelper.php:62) in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/helpers.php on line 5
+[29-Oct-2025 10:03:38 UTC] PHP Fatal error:  Cannot redeclare AppSetting() (previously declared in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/Helpers/PurchaseHelper.php:62) in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/helpers.php on line 5
+[29-Oct-2025 10:03:44 UTC] PHP Fatal error:  Cannot redeclare AppSetting() (previously declared in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/Helpers/PurchaseHelper.php:62) in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/helpers.php on line 5
+[29-Oct-2025 10:03:50 UTC] PHP Fatal error:  Cannot redeclare AppSetting() (previously declared in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/Helpers/PurchaseHelper.php:62) in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/helpers.php on line 5
+[29-Oct-2025 10:03:51 UTC] PHP Fatal error:  Cannot redeclare AppSetting() (previously declared in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/Helpers/PurchaseHelper.php:62) in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/helpers.php on line 5
+[29-Oct-2025 10:03:56 UTC] PHP Fatal error:  Cannot redeclare AppSetting() (previously declared in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/Helpers/PurchaseHelper.php:62) in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/helpers.php on line 5
+[29-Oct-2025 10:04:05 UTC] PHP Fatal error:  Cannot redeclare AppSetting() (previously declared in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/Helpers/PurchaseHelper.php:62) in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/helpers.php on line 5
+[29-Oct-2025 10:04:12 UTC] PHP Fatal error:  Cannot redeclare AppSetting() (previously declared in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/Helpers/PurchaseHelper.php:62) in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/helpers.php on line 5
+[29-Oct-2025 10:04:12 UTC] PHP Fatal error:  Cannot redeclare AppSetting() (previously declared in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/Helpers/PurchaseHelper.php:62) in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/helpers.php on line 5
+[29-Oct-2025 10:04:12 UTC] PHP Fatal error:  Cannot redeclare AppSetting() (previously declared in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/Helpers/PurchaseHelper.php:62) in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/helpers.php on line 5
+[29-Oct-2025 10:04:13 UTC] PHP Fatal error:  Cannot redeclare AppSetting() (previously declared in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/Helpers/PurchaseHelper.php:62) in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/helpers.php on line 5
+[29-Oct-2025 10:04:14 UTC] PHP Fatal error:  Cannot redeclare AppSetting() (previously declared in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/Helpers/PurchaseHelper.php:62) in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/helpers.php on line 5
+[29-Oct-2025 10:07:20 UTC] PHP Warning:  require(/home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/../../app/helpers.php): Failed to open stream: No such file or directory in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php on line 41
+[29-Oct-2025 10:07:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/../../app/helpers.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/autoload.php(22): ComposerAutoloaderInit369d363d2000cf51c61b52cd9825fdd0::getLoader()
+#2 /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/public/index.php(24): require('/home/eclecticd...')
+#3 {main}
+  thrown in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php on line 41
+[29-Oct-2025 10:07:22 UTC] PHP Warning:  require(/home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/../../app/helpers.php): Failed to open stream: No such file or directory in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php on line 41
+[29-Oct-2025 10:07:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/../../app/helpers.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/autoload.php(22): ComposerAutoloaderInit369d363d2000cf51c61b52cd9825fdd0::getLoader()
+#2 /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/public/index.php(24): require('/home/eclecticd...')
+#3 {main}
+  thrown in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php on line 41
+[29-Oct-2025 10:07:22 UTC] PHP Warning:  require(/home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/../../app/helpers.php): Failed to open stream: No such file or directory in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php on line 41
+[29-Oct-2025 10:07:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/../../app/helpers.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/autoload.php(22): ComposerAutoloaderInit369d363d2000cf51c61b52cd9825fdd0::getLoader()
+#2 /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/public/index.php(24): require('/home/eclecticd...')
+#3 {main}
+  thrown in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php on line 41
+[29-Oct-2025 10:07:22 UTC] PHP Warning:  require(/home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/../../app/helpers.php): Failed to open stream: No such file or directory in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php on line 41
+[29-Oct-2025 10:07:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/../../app/helpers.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/autoload.php(22): ComposerAutoloaderInit369d363d2000cf51c61b52cd9825fdd0::getLoader()
+#2 /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/public/index.php(24): require('/home/eclecticd...')
+#3 {main}
+  thrown in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php on line 41
+[29-Oct-2025 10:07:23 UTC] PHP Warning:  require(/home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/../../app/helpers.php): Failed to open stream: No such file or directory in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php on line 41
+[29-Oct-2025 10:07:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/../../app/helpers.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/autoload.php(22): ComposerAutoloaderInit369d363d2000cf51c61b52cd9825fdd0::getLoader()
+#2 /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/public/index.php(24): require('/home/eclecticd...')
+#3 {main}
+  thrown in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php on line 41
+[29-Oct-2025 10:07:23 UTC] PHP Warning:  require(/home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/../../app/helpers.php): Failed to open stream: No such file or directory in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php on line 41
+[29-Oct-2025 10:07:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/../../app/helpers.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/autoload.php(22): ComposerAutoloaderInit369d363d2000cf51c61b52cd9825fdd0::getLoader()
+#2 /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/public/index.php(24): require('/home/eclecticd...')
+#3 {main}
+  thrown in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php on line 41
+[29-Oct-2025 10:07:23 UTC] PHP Warning:  require(/home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/../../app/helpers.php): Failed to open stream: No such file or directory in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php on line 41
+[29-Oct-2025 10:07:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/../../app/helpers.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/autoload.php(22): ComposerAutoloaderInit369d363d2000cf51c61b52cd9825fdd0::getLoader()
+#2 /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/public/index.php(24): require('/home/eclecticd...')
+#3 {main}
+  thrown in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php on line 41
+[29-Oct-2025 10:07:23 UTC] PHP Warning:  require(/home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/../../app/helpers.php): Failed to open stream: No such file or directory in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php on line 41
+[29-Oct-2025 10:07:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/../../app/helpers.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/autoload.php(22): ComposerAutoloaderInit369d363d2000cf51c61b52cd9825fdd0::getLoader()
+#2 /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/public/index.php(24): require('/home/eclecticd...')
+#3 {main}
+  thrown in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php on line 41
+[29-Oct-2025 10:07:23 UTC] PHP Warning:  require(/home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/../../app/helpers.php): Failed to open stream: No such file or directory in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php on line 41
+[29-Oct-2025 10:07:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/../../app/helpers.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/autoload.php(22): ComposerAutoloaderInit369d363d2000cf51c61b52cd9825fdd0::getLoader()
+#2 /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/public/index.php(24): require('/home/eclecticd...')
+#3 {main}
+  thrown in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php on line 41
+[29-Oct-2025 10:07:25 UTC] PHP Warning:  require(/home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/../../app/helpers.php): Failed to open stream: No such file or directory in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php on line 41
+[29-Oct-2025 10:07:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/../../app/helpers.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/autoload.php(22): ComposerAutoloaderInit369d363d2000cf51c61b52cd9825fdd0::getLoader()
+#2 /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/public/index.php(24): require('/home/eclecticd...')
+#3 {main}
+  thrown in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php on line 41
+[29-Oct-2025 10:09:02 UTC] PHP Warning:  require(/home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/../../app/helpers.php): Failed to open stream: No such file or directory in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php on line 41
+[29-Oct-2025 10:09:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/../../app/helpers.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/autoload.php(22): ComposerAutoloaderInit369d363d2000cf51c61b52cd9825fdd0::getLoader()
+#2 /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/public/index.php(24): require('/home/eclecticd...')
+#3 {main}
+  thrown in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php on line 41
+[29-Oct-2025 10:09:04 UTC] PHP Warning:  require(/home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/../../app/helpers.php): Failed to open stream: No such file or directory in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php on line 41
+[29-Oct-2025 10:09:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/../../app/helpers.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/autoload.php(22): ComposerAutoloaderInit369d363d2000cf51c61b52cd9825fdd0::getLoader()
+#2 /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/public/index.php(24): require('/home/eclecticd...')
+#3 {main}
+  thrown in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php on line 41
+[29-Oct-2025 10:09:04 UTC] PHP Warning:  require(/home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/../../app/helpers.php): Failed to open stream: No such file or directory in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php on line 41
+[29-Oct-2025 10:09:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/../../app/helpers.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/autoload.php(22): ComposerAutoloaderInit369d363d2000cf51c61b52cd9825fdd0::getLoader()
+#2 /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/public/index.php(24): require('/home/eclecticd...')
+#3 {main}
+  thrown in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php on line 41
+[29-Oct-2025 10:12:48 UTC] PHP Warning:  require(/home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/../../app/helpers.php): Failed to open stream: No such file or directory in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php on line 41
+[29-Oct-2025 10:12:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/../../app/helpers.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/autoload.php(22): ComposerAutoloaderInit369d363d2000cf51c61b52cd9825fdd0::getLoader()
+#2 /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/public/index.php(24): require('/home/eclecticd...')
+#3 {main}
+  thrown in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/vendor/composer/autoload_real.php on line 41
+[29-Oct-2025 10:13:50 UTC] PHP Fatal error:  Cannot redeclare AppSetting() (previously declared in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/Helpers/PurchaseHelper.php:62) in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/Helpers/helper.php on line 5
+[02-Nov-2025 11:50:39 Asia/Dhaka] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Frontend\FrontendController::orderDetails() in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/Http/Controllers/Frontend/FrontendController.php on line 765
+[03-Nov-2025 11:56:00 Asia/Dhaka] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Frontend\VendorDashboardController::updateStatus() in /home/eclecticdesignsb/drcroom.eclecticdesignsbd.com/app/Http/Controllers/Frontend/VendorDashboardController.php on line 700
